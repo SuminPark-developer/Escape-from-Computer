@@ -1,0 +1,7 @@
+1. Web Server for chrome 다운로드
+다운로드 링크 :
+https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related
+
+2. 폴더 지정
+
+3. 크롬 브라우저로 http://127.0.0.1:8887 접속
